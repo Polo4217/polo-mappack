@@ -8,16 +8,15 @@ https://www.gta5-mods.com/maps/paleto-bay-sheriff-s-office-extended-sp-and-fivem
 
 https://www.gta5-mods.com/maps/community-mission-row-pd
 
+⚠️Important⚠️
 
-Place the file as shown below and start in cfg.
+Rename [maps] to maps
 
-``ensure qb-core
-  ensure [qb]
-  ensure [standalone]
-  ensure [voice]
-  ensure maps  <----```
+Place the script into your resources file, 
+
+Go to your server.cfg and under QBCore & Extra Stuff put ensure maps underneath 
+
+Start script and enjoy !
 
 
-Change Log:
 
-Rename [maps] to map 
