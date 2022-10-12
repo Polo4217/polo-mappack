@@ -14,6 +14,8 @@ Rename [maps] to maps
 
 Place the script into your resources file, 
 
+When adding new maps make sure you rename the _manifest file for example change _manifest to  _manifestpaletopolice.ymf
+
 Go to your server.cfg and under QBCore & Extra Stuff put ensure maps underneath 
 
 Start script and enjoy !
