@@ -11,11 +11,11 @@ https://www.gta5-mods.com/maps/community-mission-row-pd
 
 Place the file as shown below and start in cfg.
 
-ensure qb-core
-ensure [qb]
-ensure [standalone]
-ensure [voice]
-ensure maps  <----
+``ensure qb-core
+  ensure [qb]
+  ensure [standalone]
+  ensure [voice]
+  ensure maps  <----```
 
 
 Change Log:
